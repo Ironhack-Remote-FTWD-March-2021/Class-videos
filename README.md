@@ -1,1 +1,1 @@
-# Class-videos
+# List of Web Dev Resources
