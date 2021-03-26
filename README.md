@@ -21,3 +21,10 @@ Afternoon - https://ironhack.zoom.us/rec/share/VxWpZT4gPZwqzKLUjF3MJVfRM3NQOvoio
 Morning - https://ironhack.zoom.us/rec/share/sX0UKAAtAFYrdYw5nNbYnWh7EY_QINEH-PcX-qt7o7QW9kz1eVEtY8T9B4OIrVhu.18cK4-HXLnnhN-2w?startTime=1616573720000
 
 Afternoon - https://ironhack.zoom.us/rec/share/sX0UKAAtAFYrdYw5nNbYnWh7EY_QINEH-PcX-qt7o7QW9kz1eVEtY8T9B4OIrVhu.18cK4-HXLnnhN-2w?startTime=1616598248000
+
+
+### Day 4
+
+Morning - https://ironhack.zoom.us/rec/share/0UjnUte-Q10xKv0WmU7Tyh7Xj4f4esytApukinwTxrwjFLHAKtxMc5H_K6jToyez.M7ofmLVT-4pCXsDL?startTime=1616659764000
+
+Afternoon - https://ironhack.zoom.us/rec/share/0UjnUte-Q10xKv0WmU7Tyh7Xj4f4esytApukinwTxrwjFLHAKtxMc5H_K6jToyez.M7ofmLVT-4pCXsDL?startTime=1616672705000
